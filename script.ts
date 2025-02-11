@@ -34,11 +34,10 @@ async function scrape() {
 
         // Detect major section headers (PARTE, LIVRO, TÍTULO, CAPÍTULO)
         const sectionMatch = trimmed.match(
-            /^(P\s*A\s*R\s*T\s*E|L\s*I\s*V\s*R\s*O|T\s*Í\s*T\s*U\s*L\s*O|C\s*A\s*P\s*Í\s*T\s*U\s*L\s*O)\s+/i
+            /^(P\s*A\s*R\s*T\s*E|L\s*I\s*V\s*R\s*O|T\s*Í\s*T\s*U\s*L\s*O|C\s*A\s*P\s*Í\s*T\s*U\s*L\s*O)|(S\s*e\s*ç\s*ã\s*o)|(S\s*u\s*b\s*s\s*e\s*ç\s*ã\s*o)\s+/i
         );
 
         if (sectionMatch) {
-            console.log("Detected section:", trimmed); // Debugging line
             const sectionType = sectionMatch[0].replace(/\s+/g, ""); // Remove all spaces to determine the section type
 
             // Finish accumulating the previous section
@@ -77,6 +76,23 @@ async function scrape() {
                     currentSections[2],
                     normalizedTitle,
                 ];
+            } else if (/^Seção/i.test(sectionType)) {
+                currentSections = [
+                    currentSections[0],
+                    currentSections[1],
+                    currentSections[2],
+                    currentSections[3],
+                    normalizedTitle,
+                ];
+            } else if (/^Subseção/i.test(sectionType)) {
+                currentSections = [
+                    currentSections[0],
+                    currentSections[1],
+                    currentSections[2],
+                    currentSections[3],
+                    currentSections[4],
+                    normalizedTitle,
+                ];
             }
 
             sections = [...currentSections]; // Store current hierarchy
@@ -97,11 +113,11 @@ async function scrape() {
         }
     
         // Identify articles
-        const articleMatch = trimmed.match(/^(Art\. \d+)[^a-zA-Z0-9]/);
+        const articleMatch = trimmed.match(/^(Art\. \d+[ºª]?[-\w]*)\.?\s*/);
         if (articleMatch) {
             const articleCitation = articleMatch[1];
-            const articleContent = trimmed.replace(articleCitation, "").trim();
-    
+            const articleContent = trimmed.replace(/^(Art\. \d+[ºª]?[-\w]*)\.?\s*/, "").trim();
+
             if (!/revogado|revogada/i.test(articleContent)) {
                 articles.push({
                     articleCitation,
