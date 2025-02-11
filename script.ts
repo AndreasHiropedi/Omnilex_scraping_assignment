@@ -11,6 +11,7 @@ interface Article {
 }
 
 async function scrape() {
+
     // Set up chromium headless browser and navigate to target URL
     const browser = await chromium.launch({ headless: true });
     const page = await browser.newPage();
@@ -39,6 +40,7 @@ async function scrape() {
         );
 
         if (sectionMatch) {
+
             // If we're currently processing an article, save it before starting a new section
             if (currentArticle) {
                 currentArticle.articleContent = accumulatingArticleContent.join(" ").trim();
@@ -64,25 +66,30 @@ async function scrape() {
                     const restOfWord = match.slice(p1.length + 1).replace(/\s+/g, "");
                     return `${p1} ${restOfWord}`;
                 });
-            } else {
+            }
+            else {
                 normalizedTitle = trimmed.replace(/\s+/g, " ");
             }
 
             // Update hierarchy based on section type (no changes needed here)
             if (/^PARTE/i.test(sectionType)) {
                 currentSections = [normalizedTitle];
-            } else if (/^LIVRO/i.test(sectionType)) {
+            }
+            else if (/^LIVRO/i.test(sectionType)) {
                 currentSections = [currentSections[0], normalizedTitle];
-            } else if (/^TÍTULO/i.test(sectionType)) {
+            }
+            else if (/^TÍTULO/i.test(sectionType)) {
                 currentSections = [currentSections[0], currentSections[1], normalizedTitle];
-            } else if (/^CAPÍTULO/i.test(sectionType)) {
+            }
+            else if (/^CAPÍTULO/i.test(sectionType)) {
                 currentSections = [
                     currentSections[0],
                     currentSections[1],
                     currentSections[2],
                     normalizedTitle,
                 ];
-            } else if (/^Seção/i.test(sectionType)) {
+            }
+            else if (/^Seção/i.test(sectionType)) {
                 currentSections = [
                     currentSections[0],
                     currentSections[1],
@@ -90,7 +97,8 @@ async function scrape() {
                     currentSections[3],
                     normalizedTitle,
                 ];
-            } else if (/^Subseção/i.test(sectionType)) {
+            }
+            else if (/^Subseção/i.test(sectionType)) {
                 currentSections = [
                     currentSections[0],
                     currentSections[1],
@@ -111,6 +119,8 @@ async function scrape() {
 
         // Accumulate extra section details to get full section title (no changes needed here)
         if (accumulatingSection && trimmed !== "" && !/^Art\./.test(trimmed)) {
+
+            // 
             currentSections[currentSections.length - 1] += " " + trimmed.replace(/\s+/g, " ");
             sections = [...currentSections];
             continue;
@@ -126,12 +136,11 @@ async function scrape() {
         const paragraphMatch = trimmed.match(/^(Parágrafo único)\.?\s*/);
 
         if (articleMatch) {
+
             // If we're currently processing an article, save it before starting a new one
             if (currentArticle) {
                 currentArticle.articleContent = accumulatingArticleContent.join(" ").trim();
-                if (!/revogado|revogada/i.test(currentArticle.articleContent)) {
-                    articles.push(currentArticle);
-                }
+                articles.push(currentArticle);
                 accumulatingArticleContent = [];
             }
 
@@ -148,13 +157,14 @@ async function scrape() {
             if (remainingContent) {
                 accumulatingArticleContent.push(remainingContent);
             }
-        } else if (paragraphMatch) {
+        }
+
+        else if (paragraphMatch) {
+
             // If we're currently processing an article, save it
             if (currentArticle) {
                 currentArticle.articleContent = accumulatingArticleContent.join(" ").trim();
-                if (!/revogado|revogada/i.test(currentArticle.articleContent)) {
-                    articles.push(currentArticle);
-                }
+                articles.push(currentArticle);
                 accumulatingArticleContent = [];
             }
 
@@ -166,23 +176,23 @@ async function scrape() {
                 sections: [...sections],
             };
 
+            // If there's content on the same line as the article citation, add it
             if (remainingContent) {
                 accumulatingArticleContent.push(remainingContent);
             }
-        } else if (currentArticle) {
+        }
+            
+        else if (currentArticle) {
             // If we're inside an article, accumulate the content
             accumulatingArticleContent.push(trimmed);
         }
-
 
     }
 
     // Save the last article if it exists
     if (currentArticle) {
         currentArticle.articleContent = accumulatingArticleContent.join(" ").trim();
-        if (!/revogado|revogada/i.test(currentArticle.articleContent)) {
-            articles.push(currentArticle);
-        }
+        articles.push(currentArticle);
     }
 
     // Close browser once everything has been read

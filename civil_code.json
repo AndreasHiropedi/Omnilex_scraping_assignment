@@ -30,6 +30,16 @@
     ]
   },
   {
+    "articleCitation": "Art. 3º",
+    "articleContent": "São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  I - (Revogado) ; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  II - (Revogado) ; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  III - (Revogado) . (Redação dada pela Lei nº 13.146, de 2015) (Vigência)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO I DAS PESSOAS",
+      "TÍTULO I DAS PESSOAS NATURAIS",
+      "CAPÍTULO I Da Personalidade e da Capacidade"
+    ]
+  },
+  {
     "articleCitation": "Art. 4",
     "articleContent": "o São incapazes, relativamente a certos atos, ou à maneira de os exercer:",
     "sections": [
@@ -192,6 +202,16 @@
   {
     "articleCitation": "Art. 14",
     "articleContent": "É válida, com objetivo científico, ou altruístico, a disposição gratuita do próprio corpo, no todo ou em parte, para depois da morte.",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO I DAS PESSOAS",
+      "TÍTULO I DAS PESSOAS NATURAIS",
+      "CAPÍTULO II Dos Direitos da Personalidade"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "O ato de disposição pode ser livremente revogado a qualquer tempo.",
     "sections": [
       "PARTE GERAL",
       "LIVRO I DAS PESSOAS",
@@ -550,6 +570,16 @@
     ]
   },
   {
+    "articleCitation": "Art. 44",
+    "articleContent": "São pessoas jurídicas de direito privado:  I - as associações;  II - as sociedades;  III - as fundações.  IV - as organizações religiosas; (Incluído pela Lei nº 10.825, de 22.12.2003)  V - os partidos políticos. (Incluído pela Lei nº 10.825, de 22.12.2003)  VI - as empresas individuais de responsabilidade limitada. (Incluído pela Lei nº 12.441, de 2011) (Vigência)          (Revogado Pela Medida Provisória nº 1.085, de 2021)     (Revogado pela Lei nº 14.382, de 2022)  VII - os empreendimentos de economia solidária.      (Redação dada pela Lei nº 15.068, de 2024)  § 1º São livres a criação, a organização, a estruturação interna e o funcionamento das organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou registro dos atos constitutivos e necessários ao seu funcionamento. (Incluído pela Lei nº 10.825, de 22.12.2003)  § 2º As disposições concernentes às associações aplicam-se subsidiariamente às sociedades que são objeto do Livro II da Parte Especial deste Código . (Incluído pela Lei nº 10.825, de 22.12.2003)  § 2º As disposições concernentes às associações aplicam-se subsidiariamente aos empreendimentos de economia solidária e às sociedades que são objeto do Livro II da Parte Especial deste Código.      (Redação dada pela Lei nº 15.068, de 2024)  § 3º Os partidos políticos serão organizados e funcionarão conforme o disposto em lei específica. (Incluído pela Lei nº 10.825, de 22.12.2003)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO I DAS PESSOAS",
+      "TÍTULO II DAS PESSOAS JURÍDICAS",
+      "CAPÍTULO I Disposições Gerais"
+    ]
+  },
+  {
     "articleCitation": "Art. 45",
     "articleContent": "Começa a existência legal das pessoas jurídicas de direito privado com a inscrição do ato constitutivo no respectivo registro, precedida, quando necessário, de autorização ou aprovação do Poder Executivo, averbando-se no registro todas as alterações por que passar o ato constitutivo.",
     "sections": [
@@ -792,6 +822,16 @@
   {
     "articleCitation": "Parágrafo único",
     "articleContent": "Da decisão do órgão que, de conformidade com o estatuto, decretar a exclusão, caberá sempre recurso à assembléia geral",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO I DAS PESSOAS",
+      "TÍTULO II DAS PESSOAS JURÍDICAS",
+      "CAPÍTULO II Das Associações"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "(revogado) (Redação dada pela Lei nº 11.127, de 2005)",
     "sections": [
       "PARTE GERAL",
       "LIVRO I DAS PESSOAS",
@@ -2394,6 +2434,17 @@
     ]
   },
   {
+    "articleCitation": "Art. 194",
+    "articleContent": "O juiz não pode suprir, de ofício, a alegação de prescrição, salvo se favorecer a absolutamente incapaz. (Revogado pela Lei nº 11.280, de 2006)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO III Dos Fatos Jurídicos",
+      "TÍTULO IV Da Prescrição e da Decadência",
+      "CAPÍTULO I Da Prescrição",
+      "Seção I Disposições Gerais"
+    ]
+  },
+  {
     "articleCitation": "Art. 195",
     "articleContent": "Os relativamente incapazes e as pessoas jurídicas têm ação contra os seus assistentes ou representantes legais, que derem causa à prescrição, ou não a alegarem oportunamente.",
     "sections": [
@@ -2800,8 +2851,44 @@
     ]
   },
   {
+    "articleCitation": "Art. 227",
+    "articleContent": "Salvo os casos expressos, a prova exclusivamente testemunhal só se admite nos negócios jurídicos cujo valor não ultrapasse o décuplo do maior salário mínimo vigente no País ao tempo em que foram celebrados. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO III Dos Fatos Jurídicos",
+      "TÍTULO V Da Prova"
+    ]
+  },
+  {
     "articleCitation": "Parágrafo único",
     "articleContent": "Qualquer que seja o valor do negócio jurídico, a prova testemunhal é admissível como subsidiária ou complementar da prova por escrito.",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO III Dos Fatos Jurídicos",
+      "TÍTULO V Da Prova"
+    ]
+  },
+  {
+    "articleCitation": "Art. 228",
+    "articleContent": "Não podem ser admitidos como testemunhas:  I - os menores de dezesseis anos;  II - aqueles que, por enfermidade ou retardamento mental, não tiverem discernimento para a prática dos atos da vida civil;  III - os cegos e surdos, quando a ciência do fato que se quer provar dependa dos sentidos que lhes faltam;  II - ( Revogado); (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  III - (Revogado); (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  IV - o interessado no litígio, o amigo íntimo ou o inimigo capital das partes;  V - os cônjuges, os ascendentes, os descendentes e os colaterais, até o terceiro grau de alguma das partes, por consangüinidade, ou afinidade.  § 1º Para a prova de fatos que só elas conheçam, pode o juiz admitir o depoimento das pessoas a que se refere este artigo. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  § 2º A pessoa com deficiência poderá testemunhar em igualdade de condições com as demais pessoas, sendo-lhe assegurados todos os recursos de tecnologia assistiva. (Incluído pela Lei nº 13.146, de 2015) (Vigência)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO III Dos Fatos Jurídicos",
+      "TÍTULO V Da Prova"
+    ]
+  },
+  {
+    "articleCitation": "Art. 229",
+    "articleContent": "Ninguém pode ser obrigado a depor sobre fato: (Revogado pela Lei n º 13.105, de 2015) (Vigência)  I - a cujo respeito, por estado ou profissão, deva guardar segredo; (Revogado pela Lei n º 13.105, de 2015) (Vigência)  II - a que não possa responder sem desonra própria, de seu cônjuge, parente em grau sucessível, ou amigo íntimo; (Revogado pela Lei n º 13.105, de 2015) (Vigência)  III - que o exponha, ou às pessoas referidas no inciso antecedente, a perigo de vida, de demanda, ou de dano patrimonial imediato. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE GERAL",
+      "LIVRO III Dos Fatos Jurídicos",
+      "TÍTULO V Da Prova"
+    ]
+  },
+  {
+    "articleCitation": "Art. 230",
+    "articleContent": "As presunções, que não as legais, não se admitem nos casos em que a lei exclui a prova testemunhal. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
     "sections": [
       "PARTE GERAL",
       "LIVRO III Dos Fatos Jurídicos",
@@ -4474,6 +4561,16 @@
     ]
   },
   {
+    "articleCitation": "Art. 374",
+    "articleContent": "A matéria da compensação, no que concerne às dívidas fiscais e parafiscais, é regida pelo disposto neste capítulo. (Vide Medida Provisória nº 75, de 24.10.2002)     (Revogado pela Lei nº 10.677, de 22.5.2003)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO III Do Adimplemento e Extinção das Obrigações",
+      "CAPÍTULO VII Da Compensação"
+    ]
+  },
+  {
     "articleCitation": "Art. 375",
     "articleContent": "Não haverá compensação quando as partes, por mútuo acordo, a excluírem, ou no caso de renúncia prévia de uma delas.",
     "sections": [
@@ -5584,6 +5681,28 @@
   {
     "articleCitation": "Art. 455",
     "articleContent": "Se parcial, mas considerável, for a evicção, poderá o evicto optar entre a rescisão do contrato e a restituição da parte do preço correspondente ao desfalque sofrido. Se não for considerável, caberá somente direito a indenização.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO V Dos Contratos em Geral",
+      "CAPÍTULO I Disposições Gerais",
+      "Seção VI Da Evicção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 456",
+    "articleContent": "Para poder exercitar o direito que da evicção lhe resulta, o adquirente notificará do litígio o alienante imediato, ou qualquer dos anteriores, quando e como lhe determinarem as leis do processo. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO V Dos Contratos em Geral",
+      "CAPÍTULO I Disposições Gerais",
+      "Seção VI Da Evicção"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Não atendendo o alienante à denunciação da lide, e sendo manifesta a procedência da evicção, pode o adquirente deixar de oferecer contestação, ou usar de recursos . (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
@@ -6918,8 +7037,30 @@
     ]
   },
   {
+    "articleCitation": "Art. 555",
+    "articleContent": "A doação pode ser revogada por ingratidão do donatário, ou por inexecução do encargo.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO VI Das Várias Espécies de Contrato",
+      "CAPÍTULO IV Da Doação",
+      "Seção II Da Revogação da Doação"
+    ]
+  },
+  {
     "articleCitation": "Art. 556",
     "articleContent": "Não se pode renunciar antecipadamente o direito de revogar a liberalidade por ingratidão do donatário.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO VI Das Várias Espécies de Contrato",
+      "CAPÍTULO IV Da Doação",
+      "Seção II Da Revogação da Doação"
+    ]
+  },
+  {
+    "articleCitation": "Art. 557",
+    "articleContent": "Podem ser revogadas por ingratidão as doações:  I - se o donatário atentou contra a vida do doador ou cometeu crime de homicídio doloso contra ele;  II - se cometeu contra ele ofensa física;  III - se o injuriou gravemente ou o caluniou;  IV - se, podendo ministrá-los, recusou ao doador os alimentos de que este necessitava.",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
@@ -6964,6 +7105,17 @@
   {
     "articleCitation": "Art. 561",
     "articleContent": "No caso de homicídio doloso do doador, a ação caberá aos seus herdeiros, exceto se aquele houver perdoado.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO VI Das Várias Espécies de Contrato",
+      "CAPÍTULO IV Da Doação",
+      "Seção II Da Revogação da Doação"
+    ]
+  },
+  {
+    "articleCitation": "Art. 562",
+    "articleContent": "A doação onerosa pode ser revogada por inexecução do encargo, se o donatário incorrer em mora. Não havendo prazo para o cumprimento, o doador poderá notificar judicialmente o donatário, assinando-lhe prazo razoável para que cumpra a obrigação assumida.",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
@@ -8470,6 +8622,17 @@
   {
     "articleCitation": "Parágrafo único",
     "articleContent": "É irrevogável o mandato que contenha poderes de cumprimento ou confirmação de negócios encetados, aos quais se ache vinculado.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
+      "TÍTULO VI Das Várias Espécies de Contrato",
+      "CAPÍTULO X Do Mandato",
+      "Seção IV Da Extinção do Mandato"
+    ]
+  },
+  {
+    "articleCitation": "Art. 687",
+    "articleContent": "Tanto que for comunicada ao mandatário a nomeação de outro, para o mesmo negócio, considerar-se-á revogado o mandato anterior.",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO I DO DIREITO DAS OBRIGAÇÕES",
@@ -12070,6 +12233,16 @@
     ]
   },
   {
+    "articleCitation": "Art. 974",
+    "articleContent": "Poderá o incapaz, por meio de representante ou devidamente assistido, continuar a empresa antes exercida por ele enquanto capaz, por seus pais ou pelo autor de herança.  §1º Nos casos deste artigo, precederá autorização judicial, após exame das circunstâncias e dos riscos da empresa, bem como da conveniência em continuá-la, podendo a autorização ser revogada pelo juiz, ouvidos os pais, tutores ou representantes legais do menor ou do interdito, sem prejuízo dos direitos adquiridos por terceiros.  §2º Não ficam sujeitos ao resultado da empresa os bens que o incapaz já possuía, ao tempo da sucessão ou da interdição, desde que estranhos ao acervo daquela, devendo tais fatos constar do alvará que conceder a autorização.  §3º O Registro Público de Empresas Mercantis a cargo das Juntas Comerciais deverá registrar contratos ou alterações contratuais de sociedade que envolva sócio incapaz, desde que atendidos, de forma conjunta, os seguintes pressupostos: (Incluído pela Lei nº 12.399, de 2011)  I – o sócio incapaz não pode exercer a administração da sociedade; (Incluído pela Lei nº 12.399, de 2011)  II – o capital social deve ser totalmente integralizado; (Incluído pela Lei nº 12.399, de 2011)  III – o sócio relativamente incapaz deve ser assistido e o absolutamente incapaz deve ser representado por seus representantes legais. (Incluído pela Lei nº 12.399, de 2011)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO II Do Direito de Empresa",
+      "TÍTULO I Do Empresário",
+      "CAPÍTULO II Da Capacidade"
+    ]
+  },
+  {
     "articleCitation": "Art. 975",
     "articleContent": "Se o representante ou assistente do incapaz for pessoa que, por disposição de lei, não puder exercer atividade de empresário, nomeará, com a aprovação do juiz, um ou mais gerentes.  §1º Do mesmo modo será nomeado gerente em todos os casos em que o juiz entender ser conveniente.  §2º A aprovação do juiz não exime o representante ou assistente do menor ou do interdito da responsabilidade pelos atos dos gerentes nomeados.",
     "sections": [
@@ -12634,6 +12807,17 @@
     ]
   },
   {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "O excesso por parte dos administradores somente pode ser oposto a terceiros se ocorrer pelo menos uma das seguintes hipóteses:     (Revogado pela Lei nº 14.195, de 2021)  I - se a limitação de poderes estiver inscrita ou averbada no registro próprio da sociedade;     (Revogado pela Lei nº 14.195, de 2021)  II - provando-se que era conhecida do terceiro;     (Revogado pela Lei nº 14.195, de 2021)  III - tratando-se de operação evidentemente estranha aos negócios da sociedade.     (Revogado pela Lei nº 14.195, de 2021)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO II Do Direito de Empresa",
+      "TÍTULO II Da Sociedade",
+      "CAPÍTULO I Da Sociedade Simples",
+      "Seção III Da Administração"
+    ]
+  },
+  {
     "articleCitation": "Art. 1",
     "articleContent": "016. Os administradores respondem solidariamente perante a sociedade e os terceiros prejudicados, por culpa no desempenho de suas funções.",
     "sections": [
@@ -12876,8 +13060,30 @@
     ]
   },
   {
+    "articleCitation": "Art. 1",
+    "articleContent": "033. Dissolve-se a sociedade quando ocorrer:  I - o vencimento do prazo de duração, salvo se, vencido este e sem oposição de sócio, não entrar a sociedade em liquidação, caso em que se prorrogará por tempo indeterminado;  II - o consenso unânime dos sócios;  III - a deliberação dos sócios, por maioria absoluta, na sociedade de prazo indeterminado;  IV - a falta de pluralidade de sócios, não reconstituída no prazo de cento e oitenta dias;    (Revogado pela Lei nº 14.195, de 2021)  V - a extinção, na forma da lei, de autorização para funcionar.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO II Do Direito de Empresa",
+      "TÍTULO II Da Sociedade",
+      "CAPÍTULO I Da Sociedade Simples",
+      "Seção VI Da Dissolução"
+    ]
+  },
+  {
     "articleCitation": "Parágrafo único",
     "articleContent": "Não se aplica o disposto no inciso IV caso o sócio remanescente, inclusive na hipótese de concentração de todas as cotas da sociedade sob sua titularidade, requeira no Registro Público de Empresas Mercantis a transformação do registro da sociedade para empresário individual, observado, no que couber, o disposto nos arts. 1.113 a 1.115 deste Código . (Incluído pela lei Complementar nº 128, de 2008)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO II Do Direito de Empresa",
+      "TÍTULO II Da Sociedade",
+      "CAPÍTULO I Da Sociedade Simples",
+      "Seção VI Da Dissolução"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Não se aplica o disposto no inciso IV caso o sócio remanescente, inclusive na hipótese de concentração de todas as cotas da sociedade sob sua titularidade, requeira, no Registro Público de Empresas Mercantis, a transformação do registro da sociedade para empresário individual ou para empresa individual de responsabilidade limitada, observado, no que couber, o disposto nos arts. 1.113 a 1.115 deste Código . (Redação dada pela Lei nº 12.441, de 2011) (Vigência)      (Revogado pela Lei nº 14.195, de 2021)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO II Do Direito de Empresa",
@@ -13518,6 +13724,17 @@
   {
     "articleCitation": "Art. 1",
     "articleContent": "076. Ressalvado o disposto no art. 1.061 e no § 1º do art. 1.063 , as deliberações dos sócios serão tomadas:",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO II Do Direito de Empresa",
+      "TÍTULO II Da Sociedade",
+      "CAPÍTULO IV Da Sociedade Limitada",
+      "§ 6º Aplica-se às reuniões dos sócios, nos casos omissos no contrato, o disposto na presente Seção sobre a assembléia."
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "076.  Ressalvado o disposto no art. 1.061, as deliberações dos sócios serão tomadas (Redação dada pela Lei nº 13.792, de 2019)  I - pelos votos correspondentes, no mínimo, a três quartos do capital social, nos casos previstos nos incisos V e VI do art. 1.071 ;          (Revogado pela Lei nº 14.451, de 2022)     Vigência  I - (revogado);        (Redação dada pela Lei nº 14.451, de 2022)     Vigência  II - pelos votos correspondentes a mais de metade do capital social, nos casos previstos nos incisos II, III, IV e VIII do art. 1.071 ;  II - pelos votos correspondentes a mais da metade do capital social, nos casos previstos nos incisos II, III, IV, V, VI e VIII do caput do art. 1.071 deste Código;        (Redação dada pela Lei nº 14.451, de 2022)     Vigência  III - pela maioria de votos dos presentes, nos demais casos previstos na lei ou no contrato, se este não exigir maioria mais elevada.",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO II Do Direito de Empresa",
@@ -19117,6 +19334,28 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "463. Não se fará o penhor de veículos sem que estejam previamente segurados contra furto, avaria, perecimento e danos causados a terceiros.      (Revogado pela Medida Provisória nº 958, de 2020)              (Vigência encerrada)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO II Do Penhor",
+      "Seção VIII Do Penhor de Veículos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "463. Não se fará o penhor de veículos sem que estejam previamente segurados contra furto, avaria, perecimento e danos causados a terceiros.      (Revogado pela Lei nº 14.179, de 2021)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO II Do Penhor",
+      "Seção VIII Do Penhor de Veículos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "464. Tem o credor direito a verificar o estado do veículo empenhado, inspecionando-o onde se achar, por si ou por pessoa que credenciar.",
     "sections": [
       "PARTE ESPECIAL",
@@ -19370,6 +19609,39 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "482. Realizada a praça, o executado poderá, até a assinatura do auto de arrematação ou até que seja publicada a sentença de adjudicação, remir o imóvel hipotecado, oferecendo preço igual ao da avaliação, se não tiver havido licitantes, ou ao do maior lance oferecido. Igual direito caberá ao cônjuge, aos descendentes ou ascendentes do executado.     (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO III Da Hipoteca",
+      "Seção I Disposições Gerais"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "483. No caso de falência, ou insolvência, do devedor hipotecário, o direito de remição defere-se à massa, ou aos credores em concurso, não podendo o credor recusar o preço da avaliação do imóvel.     (Revogado pela Lei n º 13.105, de 2015)   (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO III Da Hipoteca",
+      "Seção I Disposições Gerais"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Pode o credor hipotecário, para pagamento de seu crédito, requerer a adjudicação do imóvel avaliado em quantia inferior àquele, desde que dê quitação pela sua totalidade.     (Revogado pela Lei n º 13.105, de 2015)   (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO III Da Hipoteca",
+      "Seção I Disposições Gerais"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "484. É lícito aos interessados fazer constar das escrituras o valor entre si ajustado dos imóveis hipotecados, o qual, devidamente atualizado, será a base para as arrematações, adjudicações e remições, dispensada a avaliação.",
     "sections": [
       "PARTE ESPECIAL",
@@ -19514,6 +19786,17 @@
   {
     "articleCitation": "Parágrafo único",
     "articleContent": "O número de ordem determina a prioridade, e esta a preferência entre as hipotecas.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO III Do Direito das Coisas",
+      "TÍTULO X Do Penhor, da Hipoteca e da Anticrese",
+      "CAPÍTULO III Da Hipoteca",
+      "Seção III Do Registro da Hipoteca"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "494. Não se registrarão no mesmo dia duas hipotecas, ou uma hipoteca e outro direito real, sobre o mesmo imóvel, em favor de pessoas diversas, salvo se as escrituras, do mesmo dia, indicarem a hora em que foram lavradas.     (Revogado Pela Medida Provisória nº 1.085, de 2021)         (Revogado pela Lei nº 14.382, de 2022)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO III Do Direito das Coisas",
@@ -20255,6 +20538,16 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "548. É nulo o casamento contraído:  I - pelo enfermo mental sem o necessário discernimento para os atos da vida civil;  I - (Revogado) ; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  II - por infringência de impedimento.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO VIII Da Invalidade do Casamento"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "549. A decretação de nulidade de casamento, pelos motivos previstos no artigo antecedente, pode ser promovida mediante ação direta, por qualquer interessado, ou pelo Ministério Público.",
     "sections": [
       "PARTE ESPECIAL",
@@ -20326,6 +20619,16 @@
   {
     "articleCitation": "Art. 1",
     "articleContent": "556. O casamento pode ser anulado por vício da vontade, se houve por parte de um dos nubentes, ao consentir, erro essencial quanto à pessoa do outro.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO VIII Da Invalidade do Casamento"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "557. Considera-se erro essencial sobre a pessoa do outro cônjuge:  I - o que diz respeito à sua identidade, sua honra e boa fama, sendo esse erro tal que o seu conhecimento ulterior torne insuportável a vida em comum ao cônjuge enganado;  II - a ignorância de crime, anterior ao casamento, que, por sua natureza, torne insuportável a vida conjugal;  III - a ignorância, anterior ao casamento, de defeito físico irremediável, ou de moléstia grave e transmissível, pelo contágio ou herança, capaz de pôr em risco a saúde do outro cônjuge ou de sua descendência;  IV - a ignorância, anterior ao casamento, de doença mental grave que, por sua natureza, torne insuportável a vida em comum ao cônjuge enganado.  III - a ignorância, anterior ao casamento, de defeito físico irremediável que não caracterize deficiência ou de moléstia grave e transmissível, por contágio ou por herança, capaz de pôr em risco a saúde do outro cônjuge ou de sua descendência; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  IV - (Revogado) . (Redação dada pela Lei nº 13.146, de 2015) (Vigência)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO IV Do Direito de Família",
@@ -20675,6 +20978,16 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "583.  A guarda será unilateral ou compartilhada. (Redação dada pela Lei nº 11.698, de 2008).  § 1º Compreende-se por guarda unilateral a atribuída a um só dos genitores ou a alguém que o substitua ( art. 1.584, § 5º) e, por guarda compartilhada a responsabilização conjunta e o exercício de direitos e deveres do pai e da mãe que não vivam sob o mesmo teto, concernentes ao poder familiar dos filhos comuns. (Incluído pela Lei nº 11.698, de 2008).  § 2º A guarda unilateral será atribuída ao genitor que revele melhores condições para exercê-la e, objetivamente, mais aptidão para propiciar aos filhos os seguintes fatores: (Incluído pela Lei nº 11.698, de 2008).  § 2º Na guarda compartilhada, o tempo de convívio com os filhos deve ser dividido de forma equilibrada com a mãe e com o pai, sempre tendo em vista as condições fáticas e os interesses dos filhos: (Redação dada pela Lei nº 13.058, de 2014)  I – afeto nas relações com o genitor e com o grupo familiar; (Incluído pela Lei nº 11.698, de 2008).  I - (revogado); (Redação dada pela Lei nº 13.058, de 2014)  II – saúde e segurança; (Incluído pela Lei nº 11.698, de 2008).  II - (revogado); (Redação dada pela Lei nº 13.058, de 2014)  III – educação. (Incluído pela Lei nº 11.698, de 2008).  III - (revogado). (Redação dada pela Lei nº 13.058, de 2014)  § 3ºA guarda unilateral obriga o pai ou a mãe que não a detenha a supervisionar os interesses dos filhos. (Incluído pela Lei nº 11.698, de 2008).  § 3º  Na guarda compartilhada, a cidade considerada base de moradia dos filhos será aquela que melhor atender aos interesses dos filhos. (Redação dada pela Lei nº 13.058, de 2014)  § 4º (VETADO) . (Incluído pela Lei nº 11.698, de 2008).  § 5º  A guarda unilateral obriga o pai ou a mãe que não a detenha a supervisionar os interesses dos filhos, e, para possibilitar tal supervisão, qualquer dos genitores sempre será parte legítima para solicitar informações e/ou prestação de contas, objetivas ou subjetivas, em assuntos ou situações que direta ou indiretamente afetem a saúde física e psicológica e a educação de seus filhos. (Incluído pela Lei nº 13.058, de 2014)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO XI Da Proteção da Pessoa dos Filhos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "584. Decretada a separação judicial ou o divórcio, sem que haja entre as partes acordo quanto à guarda dos filhos, será ela atribuída a quem revelar melhores condições para exercê-la.",
     "sections": [
       "PARTE ESPECIAL",
@@ -21005,6 +21318,16 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "610. O reconhecimento não pode ser revogado, nem mesmo quando feito em testamento.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO III Do Reconhecimento dos Filhos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "611. O filho havido fora do casamento, reconhecido por um dos cônjuges, não poderá residir no lar conjugal sem o consentimento do outro.",
     "sections": [
       "PARTE ESPECIAL",
@@ -21116,6 +21439,126 @@
   {
     "articleCitation": "Art. 1",
     "articleContent": "619.  A adoção de maiores de 18 (dezoito) anos dependerá da assistência efetiva do poder público e de sentença constitutiva, aplicando-se, no que couber, as regras gerais da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente . (Redação dada pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "620. Enquanto não der contas de sua administração e não saldar o débito, não poderá o tutor ou o curador adotar o pupilo ou o curatelado. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "621. A adoção depende de consentimento dos pais ou dos representantes legais, de quem se deseja adotar, e da concordância deste, se contar mais de doze anos. (Revogado pela Lei nº 12.010, de 2009) Vigência  § 1ºO consentimento será dispensado em relação à criança ou adolescente cujos pais sejam desconhecidos ou tenham sido destituídos do poder familiar. (Revogado pela Lei nº 12.010, de 2009) Vigência  § 2ºO consentimento previsto no caput é revogável até a publicação da sentença constitutiva da adoção. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "622. Ninguém pode ser adotado por duas pessoas, salvo se forem marido e mulher, ou se viverem em união estável. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Os divorciados e os judicialmente separados poderão adotar conjuntamente, contanto que acordem sobre a guarda e o regime de visitas, e desde que o estágio de convivência tenha sido iniciado na constância da sociedade conjugal. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "623. A adoção obedecerá a processo judicial, observados os requisitos estabelecidos neste Código. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "A adoção de maiores de dezoito anos dependerá, igualmente, da assistência efetiva do Poder Público e de sentença constitutiva. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "624. Não há necessidade do consentimento do representante legal do menor, se provado que se trata de infante exposto, ou de menor cujos pais sejam desconhecidos, estejam desaparecidos, ou tenham sido destituídos do poder familiar, sem nomeação de tutor; ou de órfão não reclamado por qualquer parente, por mais de um ano. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "625. Somente será admitida a adoção que constituir efetivo benefício para o adotando. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "626. A adoção atribui a situação de filho ao adotado, desligando-o de qualquer vínculo com os pais e parentes consangüíneos, salvo quanto aos impedimentos para o casamento. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Se um dos cônjuges ou companheiros adota o filho do outro, mantêm-se os vínculos de filiação entre o adotado e o cônjuge ou companheiro do adotante e os respectivos parentes. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "627. A decisão confere ao adotado o sobrenome do adotante, podendo determinar a modificação de seu prenome, se menor, a pedido do adotante ou do adotado. (Revogado pela Lei nº 12.010, de 2009) Vigência",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO I Do Direito Pessoal",
+      "CAPÍTULO IV Da Adoção"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "628. Os efeitos da adoção começam a partir do trânsito em julgado da sentença, exceto se o adotante vier a falecer no curso do procedimento, caso em que terá força retroativa à data do óbito. As relações de parentesco se estabelecem não só entre o adotante e o adotado, como também entre aquele e os descendentes deste e entre o adotado e todos os parentes do adotante. (Revogado pela Lei nº 12.010, de 2009) Vigência",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO IV Do Direito de Família",
@@ -22808,7 +23251,29 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "767. Estão sujeitos a curatela:  I - aqueles que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para os atos da vida civil;  II - aqueles que, por outra causa duradoura, não puderem exprimir a sua vontade;  III - os deficientes mentais, os ébrios habituais e os viciados em tóxicos;  IV - os excepcionais sem completo desenvolvimento mental;  I - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade;    (Redação dada pela Lei nº 13.146, de 2015) (Vigência)  II - (Revogado) ;    (Redação dada pela Lei nº 13.146, de 2015)   (Vigência)  III - os ébrios habituais e os viciados em tóxico;      (Redação dada pela Lei nº 13.146, de 2015)   (Vigência)  IV - (Revogado) ;     (Redação dada pela Lei nº 13.146, de 2015)   (Vigência)  V - os pródigos.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "768. A interdição deve ser promovida:",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "768.  O processo que define os termos da curatela deve ser promovido:    (Redação dada pela Lei nº 13.146, de 2015) (Vigência)    (Revogado pela Lei n º 13.105, de 2015) (Vigência)  I - pelos pais ou tutores;    (Revogado pela Lei n º 13.105, de 2015) (Vigência)  II - pelo cônjuge, ou por qualquer parente;   (Revogado pela Lei n º 13.105, de 2015) (Vigência)  III - pelo Ministério Público.     (Revogado pela Lei n º 13.105, de 2015)   (Vigência)  IV - pela própria pessoa. (Incluído pela Lei nº 13.146, de 2015) (Vigência)     (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO IV Do Direito de Família",
@@ -22830,6 +23295,28 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "769.  O Ministério Público somente promoverá o processo que define os termos da curatela:     (Redação dada pela Lei nº 13.146, de 2015)    (Vigência)     (Revogado pela Lei n º 13.105, de 2015)    (Vigência)  I - em caso de doença mental grave;  I - nos casos de deficiência mental ou intelectual; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) (Revogado pela Lei n º 13.105, de 2015) (Vigência)  II - se não existir ou não promover a interdição alguma das pessoas designadas nos incisos I e II do artigo antecedente; (Revogado pela Lei n º 13.105, de 2015) (Vigência)  III - se, existindo, forem incapazes as pessoas mencionadas no inciso antecedente. (Revogado pela Lei n º 13.105, de 2015) (Vigência)  III - se, existindo, forem menores ou incapazes as pessoas mencionadas no inciso II. (Redação dada pela Lei nº 13.146, de 2015) (Vigência) (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "770. Nos casos em que a interdição for promovida pelo Ministério Público, o juiz nomeará defensor ao suposto incapaz; nos demais casos o Ministério Público será o defensor. (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "771. Antes de pronunciar-se acerca da interdição, o juiz, assistido por especialistas, examinará pessoalmente o argüido de incapacidade.",
     "sections": [
       "PARTE ESPECIAL",
@@ -22841,7 +23328,51 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "771.  Antes de se pronunciar acerca dos termos da curatela, o juiz, que deverá ser assistido por equipe multidisciplinar, entrevistará pessoalmente o interditando. (Redação dada pela Lei nº 13.146, de 2015) (Vigência) (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "772. Pronunciada a interdição das pessoas a que se referem os incisos III e IV do art. 1.767 , o juiz assinará, segundo o estado ou o desenvolvimento mental do interdito, os limites da curatela, que poderão circunscrever-se às restrições constantes do art. 1.782.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "772.  O juiz determinará, segundo as potencialidades da pessoa, os limites da curatela, circunscritos às restrições constantes do art. 1.782 , e indicará curador. (Redação dada pela Lei nº 13.146, de 2015) (Vigência) (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Parágrafo único",
+    "articleContent": "Para a escolha do curador, o juiz levará em conta a vontade e as preferências do interditando, a ausência de conflito de interesses e de influência indevida, a proporcionalidade e a adequação às circunstâncias da pessoa. (Incluído pela Lei nº 13.146, de 2015) (Vigência) (Revogado pela Lei n º 13.105, de 2015) (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "773. A sentença que declara a interdição produz efeitos desde logo, embora sujeita a recurso.   (Revogado pela Lei n º 13.105, de 2015)     (Vigência)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO IV Do Direito de Família",
@@ -22875,6 +23406,17 @@
   {
     "articleCitation": "Art. 1",
     "articleContent": "775-A.  Na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada a mais de uma pessoa.     (Incluído pela Lei nº 13.146, de 2015)     (Vigência)",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO IV Do Direito de Família",
+      "TÍTULO IV",
+      "CAPÍTULO II Da Curatela",
+      "Seção I Dos Interditos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
+    "articleContent": "776. Havendo meio de recuperar o interdito, o curador promover-lhe-á o tratamento em estabelecimento apropriado .     (Revogado pela Lei nº 13.146, de 2015)     (Vigência)",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO IV Do Direito de Família",
@@ -24175,6 +24717,16 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "884. Os atos previstos nos artigos antecedentes revogam-se por atos iguais, e consideram-se revogados, se, havendo testamento posterior, de qualquer natureza, este os não confirmar ou modificar.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO V Do Direito das Sucessões",
+      "TÍTULO II Da Sucessão Legítima",
+      "CAPÍTULO IV Dos Codicilos"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "885. Se estiver fechado o codicilo, abrir-se-á do mesmo modo que o testamento cerrado.",
     "sections": [
       "PARTE ESPECIAL",
@@ -25238,6 +25790,16 @@
   },
   {
     "articleCitation": "Art. 1",
+    "articleContent": "969. O testamento pode ser revogado pelo mesmo modo e forma como pode ser feito.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO V Do Direito das Sucessões",
+      "TÍTULO II Da Sucessão Legítima",
+      "CAPÍTULO XII Da Revogação do Testamento"
+    ]
+  },
+  {
+    "articleCitation": "Art. 1",
     "articleContent": "970. A revogação do testamento pode ser total ou parcial.",
     "sections": [
       "PARTE ESPECIAL",
@@ -25888,6 +26450,14 @@
   },
   {
     "articleCitation": "Art. 2",
+    "articleContent": "028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO COMPLEMENTAR DAS Disposições Finais e Transitórias"
+    ]
+  },
+  {
+    "articleCitation": "Art. 2",
     "articleContent": "029. Até dois anos após a entrada em vigor deste Código, os prazos estabelecidos no parágrafo único do art. 1.238 e no parágrafo único do art. 1.242 serão acrescidos de dois anos, qualquer que seja o tempo transcorrido na vigência do anterior, Lei n o 3.071, de 1 o de janeiro de 1916.",
     "sections": [
       "PARTE ESPECIAL",
@@ -25977,6 +26547,14 @@
   {
     "articleCitation": "Art. 2",
     "articleContent": "036. A locação de prédio urbano, que esteja sujeita à lei especial, por esta continua a ser regida.",
+    "sections": [
+      "PARTE ESPECIAL",
+      "LIVRO COMPLEMENTAR DAS Disposições Finais e Transitórias"
+    ]
+  },
+  {
+    "articleCitation": "Art. 2",
+    "articleContent": "037. Salvo disposição em contrário, aplicam-se aos empresários e sociedades empresárias as disposições de lei não revogadas por este Código, referentes a comerciantes, ou a sociedades comerciais, bem como a atividades mercantis.",
     "sections": [
       "PARTE ESPECIAL",
       "LIVRO COMPLEMENTAR DAS Disposições Finais e Transitórias"
